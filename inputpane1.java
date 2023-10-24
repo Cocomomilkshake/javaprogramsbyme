@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class pane1{
+public class inputpane1{
   public static void main(String[] args){
     //convo 1:
     String name1 = JOptionPane.showInputDialog("What's Your Name?");
