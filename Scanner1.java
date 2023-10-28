@@ -17,4 +17,4 @@ public class Scanner1{
     System.out.println("Hello " + name + ", your favorite food's " + food1 + ", your favor hobby is " + hobby1 + ", and you rate this bot: " + rating1 + " star/s");
   }
 }
-ashaz does this work tho
+ashaz does this work tho SORRY I had to write in the code bcause i cant able to comment on it
