@@ -3,7 +3,7 @@ import java.util.Scanner
 
 public class Scanner1{
   public static void main(String[] args){
-    Scanner input = new Scanner(System.in);/*now i can easily refer to the scanner; it will scan any user input*/
+    Scanner scanner = new Scanner(System.in);/*now i can easily refer to the scanner; it will scan any user input*/
     //conversation part
     System.out.println("Hello, what's ur name?");
     String name1 = scanner.nextLine(); /*this makes a new variable which will be a string of a user input, meaning if you write a integer an error would occur*/
@@ -17,4 +17,5 @@ public class Scanner1{
     System.out.println("Hello " + name + ", your favorite food's " + food1 + ", your favor hobby is " + hobby1 + ", and you rate this bot: " + rating1 + " star/s");
   }
 }
-ashaz does this work tho SORRY I had to write in the code bcause i cant able to comment on it
+//Abdullah- ashaz does this work tho SORRY I had to write in the code bcause i cant able to comment on it
+//Cocomomilkshake- sry mb i corrected line 6, i accidentaly named the scanner as input lol, and the code works now :)
