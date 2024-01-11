@@ -6,7 +6,7 @@ public class inputpane1{
     JOptionPane.showMessageDialog(null, "Hello " + name);
     
     // convo 2:
-    int age1 = parseint.JOptionPane.showInputDialog("What's Your Age?");
+    int age1 = Integer.parseInt.JOptionPane.showInputDialog("What's Your Age?");
     JOptionPane.showMessageDialog(null, "You Are " + age1);
 
     //convo 3:
